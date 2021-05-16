@@ -1,0 +1,9 @@
+Processus coracoideus is attachment site of biceps caput breve and coracobrachialis
+
+Biceps long head uses via point in DSEM/DAS model, how to best include this programmatically?
+
+Discuss differences in activation parameters from muscle models DSEM vs OSIM with Ajay 
+
+Segments for the radius and ulna not present in the DSEM, it has a Forearm segment that pronates and a massless intermediate segment for elbow flexion.
+This structure likely needs to be addopted for proper conversion, as pronation RoM does not make sense with specified axis and location
+OR HU joint is wrong

@@ -1,0 +1,6 @@
+
+- Correctly add muscle-wrappings and change wrapping cylinder quadrants orientations programatically
+
+- OpenSim 4.2:
+	- integrate ligaments
+	- integrate ScapuloThoracicJoint
